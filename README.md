@@ -5,9 +5,11 @@
 - I'm **Zakaria Kalid**, a passionate **Computer Science student** and aspiring Frontend Developer with a strong interest in building modern, responsive, web applications.
 - i enjoy turning ideas into real projects while continuously improving my skills in web development.
 - I'm currently expanding my knowledge in JavaScript, React, Git/GitHub, and modern frontend development while working toward becoming a **Full-Stack Software Engineer**.
+<h1>🚀 My Projects</h1>
+<p>CryptoLand-ProjecT (https://github.com/mrzaakir/CryptoLand-ProjecT)</p>
+<p>React and Tailwind Project (https://github.com/mrzaakir/Ai-Company-Landing)</p>
 
-
-## 🧠 My Focus Areas
+## 🧠 Focus Areas
 - 🌐 Frontend Web Development
 - ⚛️ React & Modern JavaScript (ES6+)
 - 🎨 Responsive Design
