@@ -10,7 +10,7 @@
 
 
 ## 📌 About Me
-- I'm **Zakaria**, a passionate **Computer Science student** and aspiring Frontend Developer with a strong interest in building modern, responsive, and user-friendly web applications.
+- I'm **Zakaria Kalid**, a passionate **Computer Science student** and aspiring Frontend Developer with a strong interest in building modern, responsive, and user-friendly web applications.
 - I enjoy turning ideas into real projects while continuously improving my skills in web development.
 - I'm currently expanding my knowledge in JavaScript, React, Git/GitHub, and modern frontend development while working toward becoming a **Full-Stack Software Engineer**.
 
@@ -53,13 +53,7 @@
 
 </p>
 
-## 🔗 Connect with Me
-<p align="center">
- 
-  <a href="mailto:mrzaakiraj@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
+
 
 
 
