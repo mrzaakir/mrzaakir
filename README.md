@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Zakaria</h1>
+<h3 align="center">Sofware Dev</h3>
 
-<!--
-**mrzaakir/mrzaakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=mrzaakir">
+    <img src="https://komarev.com/ghpvc/?username=mrzaakir&label=Profile%20views&color=00FFFF&style=flat-square" alt="mrzaakir's profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<img src="none" alt="Banner" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+- I'm **Zakaria**, a passionate **Computer Science student** and aspiring Frontend Developer with a strong interest in building modern, responsive, and user-friendly web applications.
+- I enjoy turning ideas into real projects while continuously improving my skills in web development.
+- I'm currently expanding my knowledge in JavaScript, React, Git/GitHub, and modern frontend development while working toward becoming a **Full-Stack Software Engineer**.
+
+
+## 🧠 My Focus Areas
+- 🌐 Frontend Web Development
+- ⚛️ React & Modern JavaScript (ES6+)
+- 🎨 Responsive Design
+- 🔄 Git & GitHub Workflow
+- 📚 Continuous Learning
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mrzaakir&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="mrzaakir's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=mrzaakir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Zakaria's GitHub Trophies" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.youtube.com/@zakariyekhaalid3289">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:mrzaakiraj@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+
+
+
+
