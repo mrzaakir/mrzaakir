@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
-<h3 align="center">Sofware Dev</h3>
+<h3 align="center">Software Dev</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=mrzaakir">
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
+
 
 ## 📌 About Me
 - I'm **Zakaria**, a passionate **Computer Science student** and aspiring Frontend Developer with a strong interest in building modern, responsive, and user-friendly web applications.
@@ -55,17 +55,13 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.youtube.com/@zakariyekhaalid3289">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-  </a>&nbsp;&nbsp;
+ 
   <a href="mailto:mrzaakiraj@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+
 
 
 
