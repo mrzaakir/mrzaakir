@@ -34,8 +34,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="18" />
 
 </p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mrzaakir&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="mrzaakir's GitHub Streak" width="40%" />
-</p>
